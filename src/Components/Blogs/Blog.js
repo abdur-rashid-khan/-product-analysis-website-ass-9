@@ -5,16 +5,20 @@ const Blog = () => {
       <div className='sm:container md:container lg:container xl:container mx-auto px-4 pt-20'>
          <div>
             <p>1. what is contextApi?</p>
-            <strong> Ans : Prop drilling also called threading refers to the process you have to go through to get data to parts of the React Component tree</strong>
+            <strong> Ans : Prop drilling also called threading refers to the process you have to go through to get data to parts of the React Component tree . and have a other powerfull works .
+and easy to used and send data other place</strong>
          </div>
+         <br />
          <div>
             <p>2 . what is Semantic </p>
             <strong>
                Ans : A semantic element clearly describes its meaning to both the browser and the developer. And
                for eyeless person understander  used  
+               <strong>tag : article,aside,details,figcaption and other </strong>
             </strong>
          </div>
          <div>
+            <br />
             <p>3. Inline block vs line elements </p>
             <strong> block element
                <br />

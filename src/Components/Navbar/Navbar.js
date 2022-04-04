@@ -12,7 +12,7 @@ const Navbar = () => {
                </div>
                <div className="mane-items flex">
                {/* <CustomLink  className='text-xl' to='/'></CustomLink> */}
-               <CustomLink  className='pl-5 text-lg' to='/home'>HOME</CustomLink>
+               <CustomLink  className='pl-5 text-lg' to='/'>HOME</CustomLink>
                <CustomLink  className='pl-5 text-lg' to='/reviews'>REVIEWS</CustomLink>
                <CustomLink  className='pl-5 text-lg' to='/dashboard'>DASHBOARD</CustomLink>
                <CustomLink  className='pl-5 text-lg' to='/blogs'>BLOGS</CustomLink>
