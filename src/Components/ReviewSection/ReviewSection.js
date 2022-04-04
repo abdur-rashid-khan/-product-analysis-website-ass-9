@@ -19,7 +19,7 @@ const ReviewSection = () => {
                      sliceProducts.map(products => <ReviewSectionProducts data={products} key={products.id}></ReviewSectionProducts>)
                   }
                </div>
-               <CustomLink id='showAllProducts' className='' to='/review'>Review More</CustomLink>
+               <CustomLink id='showAllProducts'  to='/reviews'>Review More</CustomLink>
             </div>
          </div>
       </div>

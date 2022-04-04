@@ -14,6 +14,28 @@ const Blog = () => {
                for eyeless person understander  used  
             </strong>
          </div>
+         <div>
+            <p>3. Inline block vs line elements </p>
+            <strong> block element
+               <br />
+               <ol>
+                  <li>1. Takes up full width and supported any style without problems</li>
+                  <li>
+                     2 .block element name is  p , div , h1 , ul and other , 
+                  </li>
+                  <li>
+                     3.face line breacks.
+                  </li>
+               </ol>
+            </strong>
+            <br />
+            <strong>
+            Inline block :
+            <p>1. not supported any style general</p>
+            <p>2. don't face line breacks  </p>
+            <p>3. tackes up only as much width as nessarly</p>
+            </strong>
+         </div>
       </div>
    );
 };
