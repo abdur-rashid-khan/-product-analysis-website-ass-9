@@ -42,11 +42,9 @@ const Chart = () => {
 ]
   return (
     <div>
-      <h1 className='text-4xl p-6 '>LineChart</h1>
+      <h1 className='text-4xl p-6 '>Sell</h1>
       <LineChart width={400} height={300} data={data}>
-        <Line dataKey={'investment'} stroke='#000CCD'></Line>
         <Line dataKey={'sell'} stroke='#00CD10'></Line>
-        <Line dataKey={'revenue'} stroke='#CD0098'></Line>
         <CartesianGrid strokeDasharray="0" />
         <XAxis dataKey='month'></XAxis>
         <YAxis></YAxis>

@@ -42,14 +42,12 @@ const Cell = () => {
 ]
   return (
   <div>
-      <h1 className='text-4xl p-6 '>cell</h1>
+      <h1 className='text-4xl p-6 '>Investment vs Revenue</h1>
   <PieChart width={430} height={250}>
 
       <Pie data={data} dataKey="revenue" nameKey="month" cx="50%" cy="50%" outerRadius={90} fill="#0695C2" minAngle='320' label/>
 
-      <Pie data={data} dataKey="sell" nameKey="month" cx="50%" cy="50%" outerRadius={60} fill="#F19D3E"  />
-
-      <Pie data={data} dataKey="investment" nameKey="month" cx="50%" cy="50%" innerRadius={60} outerRadius={80} fill="#3134CF" label />
+      <Pie data={data} dataKey="investment" nameKey="month" cx="50%" cy="50%" innerRadius={0} outerRadius={70} fill="#3134CF" label />
 
       <Tooltip></Tooltip>
   </PieChart>  

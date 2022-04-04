@@ -42,7 +42,7 @@ const BarCharts = () => {
 ]
    return (
       <div>
-         <h1 className='text-4xl p-6 '>BarCharts</h1>
+         <h1 className='text-4xl p-6 '>Investment vs Revenue</h1>
          <BarChart width={430} height={250} data={data}>
             <CartesianGrid strokeDasharray="0" />
             <XAxis dataKey="month" />
@@ -50,7 +50,6 @@ const BarCharts = () => {
             <Tooltip />
             <Legend/>
             <Bar dataKey="investment" fill="#5D96E3" />
-            <Bar dataKey="sell" fill="#8DC963" />
             <Bar dataKey="revenue" fill="#8884d8" />
          </BarChart>
       </div>
