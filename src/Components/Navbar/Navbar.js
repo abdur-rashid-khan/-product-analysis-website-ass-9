@@ -1,5 +1,6 @@
 import React from 'react';
 import CustomLink from '../Active/Active';
+import './Navbar.css'
 
 const Navbar = () => {
    return (
