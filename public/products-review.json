@@ -1,0 +1,66 @@
+[
+   {
+      "id":1,
+      "name": "Tarek S. M.",
+      "img" : "https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZmlsZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "rating": 5,
+      "length":0,
+      "comment":"This fits Series 1 & Series 2, and it fits like a glove. I don't want it to attach to the exterior of anything (WHY would you do that?) so I removed the carabiner and cut/trimmed the silicone to remove the "
+   },
+   {
+      "id":2,
+      "name": "Amelia",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzHQv_th9wq3ivQ1CVk7UZRxhbPq64oQrg5Q&usqp=CAU",
+      "rating": 4.7,
+      "length":0,
+      "comment":"This is cute! Looks pretty sturdy as well. The problem I had with another brands was that little part that connects the latch to the case would always rip. This one looks thicker and like it would last longer and it offers a nice layer of protection to the AirPod case. I got the lilac and it’s a true lilac colour."
+   },
+   {
+      "id":3,
+      "name": "Felicity",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwgu1A5zgPSvfE83nurkuzNEoXs9DMNr8Ww&usqp=CAU",
+      "rating": 4,
+      "length":0,
+      "comment":"Almost everything amazon basics makes is great for the price. The airpod case is no exception. Better than the cheap eBay case I put on my airpods. Definitely recommend."
+   },
+   {
+      "id":4,
+      "name": "Amy",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-m9WDHn7HZLq9DcbN1xfBAIO3UChP5O-7A&usqp=CAU",
+      "rating": 5,
+      "length":0,
+      "comment":"Omg if this product is in your cart just go ahead and buy it. Great value. I’m awaiting two more colors as I type this. I have one of the more expensive cases (24.99$) and it just didn’t hold up."
+   },
+   {
+      "id":5,
+      "name": "Dorothy",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnZm2ZatubBeYhnkaOyzP49RKwTbB85jO0UA&usqp=CAU",
+      "rating": 4.5,
+      "length":0,
+      "comment":"Fits the AirPods case snuggly and the clip means it’s easy to find in a rucksack. The silicone rubber means that the case doesn’t slide around and, as a cat owner, that’s a great help!"
+   },
+   {
+      "id":6,
+      "name": "Bency",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHfNYRzesdcBbdoql8Uw9Vdgkh_KEsg_a1w&usqp=CAU",
+      "rating": 4.3,
+      "length":0,
+      "comment":"Great cheap and simple case. Gets the job done. (Case was £5 when I purchased)"
+   },
+   {
+      "id":7,
+      "name": "Callie",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ96I58O8mdQssnE59sYTETw2VK_4HN6FsD_g&usqp=CAU",
+      "rating": 3,
+      "length":0,
+      "comment":"Excellent quality Amazon Basics items qre of good quality."
+   },
+   {
+      "id":8,
+      "name": "nacless",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-JXTGHFY17JKveGhEsuP2rz0qxFMoKb6eHg&usqp=CAU",
+      "rating": 4.5,
+      "length":0,
+      "comment":"Go ahead and try it! I purchased the blue for less than 5$"
+   }
+]

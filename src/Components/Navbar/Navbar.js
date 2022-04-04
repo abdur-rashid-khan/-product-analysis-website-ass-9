@@ -11,8 +11,11 @@ const Navbar = () => {
                </div>
                <div className="mane-items flex">
                {/* <CustomLink  className='text-xl' to='/'></CustomLink> */}
-               <CustomLink  className='pl-5 text-xl' to='/home'>Home</CustomLink>
-               <CustomLink  className='pl-5 text-xl' to='/review'>Review</CustomLink>
+               <CustomLink  className='pl-5 text-xl' to='/home'>HOME</CustomLink>
+               <CustomLink  className='pl-5 text-xl' to='/reviews'>REVIEWS</CustomLink>
+               <CustomLink  className='pl-5 text-xl' to='/dashboard'>DASHBOARD</CustomLink>
+               <CustomLink  className='pl-5 text-xl' to='/blogs'>BLOGS</CustomLink>
+               <CustomLink  className='pl-5 text-xl' to='/about'>ABOUT</CustomLink>
                </div>
             </div>
          </div>
