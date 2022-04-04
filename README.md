@@ -6,4 +6,5 @@
 - website have banner  and inside same text and one headphone photos tack from apple app store .
 - banner down have review section . this section see 3 review and clicked more review button then more review seen   
 - check dashboard  and see chart .
-- all question ans inside 'Blog' section .  
+- all question ans inside 'Blog' section .
+- about section inside not found any text and content
