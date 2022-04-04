@@ -8,7 +8,11 @@ const Blog = () => {
             <strong> Ans : Prop drilling also called threading refers to the process you have to go through to get data to parts of the React Component tree</strong>
          </div>
          <div>
-            
+            <p>2 . what is Semantic </p>
+            <strong>
+               Ans : A semantic element clearly describes its meaning to both the browser and the developer. And
+               for eyeless person understander  used  
+            </strong>
          </div>
       </div>
    );
